@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	filippo.io/age v1.1.1
-	golang.org/x/mobile v0.0.0-20230818142238-7088062f872d
+	golang.org/x/mobile v0.0.0-20230901161150-52620a4a7557
 )
 
 require (
