@@ -1,6 +1,6 @@
 module github.com/MarinX/agemobile
 
-go 1.22.6
+go 1.23.1
 
 require (
 	filippo.io/age v1.2.0
